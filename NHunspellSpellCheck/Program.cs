@@ -8,7 +8,6 @@ namespace NHunspellSpellCheck
     {
         static void Main(string[] args)
         {
-
             Console.Write("Enter any food product's name: ");
             string word = Console.ReadLine();
             Check(word);
